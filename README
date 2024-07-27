@@ -1,0 +1,3 @@
+# Email Parser
+
+C++ port of the  parser from perl (originally from dovecot).
